@@ -33,8 +33,8 @@ Work experience
 * Spring 2023 - Summer 2024, University of Chicago: Research Assistant
   * Project: Multi-Dimensional Information with Specialized Lenders
   * Supervisor: Zhiguo He, Jing Huang, Cecilia Parlatore
-    *Systematically reviewed and further adapted the credit market competition model with asymmetric information to elucidate the observed interest rate disparity among banks with specializations in diverse degrees.
-    *Executed a rigorous comparative static analysis on key parameters through numerical calculastions, employing parallel computation techniques in Matlab.
+    * Systematically reviewed and further adapted the credit market competition model with asymmetric information to elucidate the observed interest rate disparity among banks with specializations in diverse degrees.
+    * Executed a rigorous comparative static analysis on key parameters through numerical calculastions, employing parallel computation techniques in Matlab.
 
 * Fall 2022 - Summer 2023, University of Chicago: Research Assistant
   * Project: Consumer-Financed Fiscal Stimulus: Evidence from Digital Coupons in China
