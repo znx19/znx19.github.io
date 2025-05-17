@@ -12,17 +12,17 @@ redirect_from:
 Education
 ======
 * Ph.D in Economics, University of Rochester, 2029 (expected)
-    * An unofficial transcript
+  * An unofficial transcript
 * B.S. in Economics and Finance, Tsinghua University, 2019
-    * Graduate Coursework: 
-	* Microeconomics: Advanced Micro-Economics I (A+); Advanced Microeconomics II (A+)
-	* Macroeconomics: Advanced Macroeconomics Ia (A+); Advanced Macroeconomic Theory Ib (A+); Advanced Macroeconomics IIa (A); Advanced Macroeconomics IIb (A)
-	* Mathematics: Basic Functional Analysis (A), Applied Stochastic Process (Itô calculus)
-    * Undergraduate Coursework: 
-	* Mathematics: Real Analysis, Basic Topology, Ordinary Differential Equations, Operational Research, Calculus, Linear Algebra
-	* Probability, Statistics and Econometrics: Applied Stochastic Processes, Applied Time Series Analysis, Probability and Mathematical Statistics, Introduction to Bayesian Statistics, Econometrics
-	* Economics and Finance: Public Finance, Investment, Money and Banking, Economic Growth, Economic Applications of Game Theory, Intermediate Microeconomics, Intermediate Macroeconomics
-    * Programming: Matlab, Python, R, Stata, MySQL, C 
+  * Graduate Coursework: 
+    * Microeconomics: Advanced Micro-Economics I (A+); Advanced Microeconomics II (A+)
+    * Macroeconomics: Advanced Macroeconomics Ia (A+); Advanced Macroeconomic Theory Ib (A+); Advanced Macroeconomics IIa (A); Advanced Macroeconomics IIb (A)
+    * Mathematics: Basic Functional Analysis (A), Applied Stochastic Process (Itô calculus)
+  * Undergraduate Coursework: 
+    * Mathematics: Real Analysis, Basic Topology, Ordinary Differential Equations, Operational Research, Calculus, Linear Algebra
+    * Probability, Statistics and Econometrics: Applied Stochastic Processes, Applied Time Series Analysis, Probability and Mathematical Statistics, Introduction to Bayesian Statistics, Econometrics
+    * Economics and Finance: Public Finance, Investment, Money and Banking, Economic Growth, Economic Applications of Game Theory, Intermediate Microeconomics, Intermediate Macroeconomics
+  * Programming: Matlab, Python, R, Stata, MySQL, C 
 
 Work experience
 ======
