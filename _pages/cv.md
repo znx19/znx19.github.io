@@ -12,19 +12,24 @@ redirect_from:
 Education
 ======
 * Ph.D in Economics, University of Rochester, 2029 (expected)
+    * An unofficial transcript
 * B.S. in Economics and Finance, Tsinghua University, 2019
-    * Advanced Coursework: 
-				Microeconomics: Advanced Micro-Economics I (A+); Advanced Microeconomics II (A+)
-				Macroeconomics: Advanced Macroeconomics Ia (A+); Advanced Macroeconomic Theory Ib (A+); Advanced Macroeconomics IIa (A); Advanced Macroeconomics IIb (A)
-				Mathematics: Basic Functional Analysis (A), Applied Stochastic Process (Itô calculus)
-		* Undergraduate Coursework: 
-				Mathematics: Real Analysis, Basic Topology, Ordinary Differential Equations, Operational Research, Calculus, Linear Algebra
-				Probability, Statistics and Econometrics: Applied Stochastic Processes, Applied Time Series Analysis, Probability and Mathematical Statistics, Introduction to Bayesian Statistics, Econometrics
-				Economics and Finance: Public Finance, Investment, Money and Banking, Economic Growth, Economic Applications of Game Theory, Intermediate Microeconomics, Intermediate Macroeconomics
+    * Graduate Coursework: 
+	* Microeconomics: Advanced Micro-Economics I (A+); Advanced Microeconomics II (A+)
+	* Macroeconomics: Advanced Macroeconomics Ia (A+); Advanced Macroeconomic Theory Ib (A+); Advanced Macroeconomics IIa (A); Advanced Macroeconomics IIb (A)
+	* Mathematics: Basic Functional Analysis (A), Applied Stochastic Process (Itô calculus)
+    * Undergraduate Coursework: 
+	* Mathematics: Real Analysis, Basic Topology, Ordinary Differential Equations, Operational Research, Calculus, Linear Algebra
+	* Probability, Statistics and Econometrics: Applied Stochastic Processes, Applied Time Series Analysis, Probability and Mathematical Statistics, Introduction to Bayesian Statistics, Econometrics
+	* Economics and Finance: Public Finance, Investment, Money and Banking, Economic Growth, Economic Applications of Game Theory, Intermediate Microeconomics, Intermediate Macroeconomics
     * Programming: Matlab, Python, R, Stata, MySQL, C 
 
 Work experience
 ======
+* Summer 2025, University of Rochester: Research Assistant
+  * Project: A Neoclassical Model of the World Financial Cycle
+  * Supervisor: Yan Bai, Patrick Kehoe, Pierlauro Lopez, Fabrizio Perri
+
 * Spring 2023 - Summer 2024, University of Chicago: Research Assistant
   * Project: Multi-Dimensional Information with Specialized Lenders
   * Supervisor: Zhiguo He, Jing Huang, Cecilia Parlatore
@@ -50,34 +55,3 @@ Additional Experience and Awards
 * Scholarship for Excellence in Science, Technology and Innovation in Tsinghua University, Fall 2021
 * Head of Academic Department in Student Association for Science and Technology, School of Economics and Management in Tsinghua University, Fall 2020 -- Spring 2021
 * First Class Scholarship for the Class of 2019 in Tsinghua University, Fall 2019
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
