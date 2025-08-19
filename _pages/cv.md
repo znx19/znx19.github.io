@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae: Ningxin Zhang"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -24,11 +24,11 @@ Education
     * Economics and Finance: Public Finance, Investment, Money and Banking, Economic Growth, Economic Applications of Game Theory, Intermediate Microeconomics, Intermediate Macroeconomics
   * Programming: Matlab, Python, R, Stata, MySQL, C 
 
-Work experience
+Work Experience
 ======
 * Summer 2025, University of Rochester: Research Assistant
-  * Project: A Neoclassical Model of the World Financial Cycle
-  * Supervisor: Yan Bai, Patrick Kehoe, Pierlauro Lopez, Fabrizio Perri
+  * Project: World FiWorld Financial Cycles and Global Trade
+  * Supervisor: Yan Bai Minjie Deng Chang Liu Gabriel Mihalache
 
 * Spring 2023 - Summer 2024, University of Chicago: Research Assistant
   * Project: Multi-Dimensional Information with Specialized Lenders
