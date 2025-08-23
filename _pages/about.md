@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Ph.D. student from [Department of Economics](https://www.sas.rochester.edu/eco/index.html), [Unversity of Rochester](https://www.rochester.edu/). My research interest includes macroeconomic theory and international finance.
+I am a second year Ph.D. student from [Department of Economics](https://www.sas.rochester.edu/eco/index.html), [Unversity of Rochester](https://www.rochester.edu/). My research interest includes macroeconomic theory and international trade.
 
