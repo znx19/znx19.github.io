@@ -88,7 +88,7 @@ defaults:
       comments: true
 
 # Navigation & UI settings
-breadcrumbs: true # Changed to true for better navigation, or keep false? Original was false. Let's keep false if user didn't ask, but "Cleanup" might imply best practices. I will stick to original false to avoid behavioral change unless "Cleanup" implies "Fix". I'll default to original: false.
+breadcrumbs: false # Disabled as requested
 read_more: "disabled"
 talkmap_link: false
 words_per_minute: 160
