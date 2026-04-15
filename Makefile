@@ -1,30 +1,25 @@
-# Makefile for Jekyll Site
+# Makefile for Jekyll site
 
-# Variables
 JEKYLL_ENV ?= development
+BUNDLE ?= bundle
 
-# Commands
-.PHONY: help install serve build clean update-pubs
+.PHONY: help install serve build clean
 
-help: ## Show this help message / 显示此帮助信息
+help: ## Show available targets
 	@echo "Usage: make [target]"
 	@echo ""
 	@echo "Targets:"
-	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "  \033[36m%-15s\033[0m %s\n", $$1, $$2}'
+	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "  \033[36m%-22s\033[0m %s\n", $$1, $$2}'
 
-install: ## Install dependencies / 安装依赖
-	bundle install
+install: ## Install Ruby and Node dependencies
+	$(BUNDLE) install
 	npm install
 
-serve: ## Serve the site locally / 本地运行网站
-	bundle exec jekyll serve --livereload
+serve: ## Serve the site locally
+	$(BUNDLE) exec jekyll serve --livereload --host 127.0.0.1
 
-build: ## Build the site / 构建网站
-	JEKYLL_ENV=production bundle exec jekyll build
+build: ## Build the site for production
+	JEKYLL_ENV=production $(BUNDLE) exec jekyll build
 
-clean: ## Clean generated files / 清理生成的文件
-	bundle exec jekyll clean
-
-update-pubs: ## Update publications from TSV / 从 TSV 更新出版物
-	python markdown_generator/pubsFromBib.py
-	python markdown_generator/talks.py
+clean: ## Clean generated files
+	$(BUNDLE) exec jekyll clean

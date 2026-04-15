@@ -1,9 +1,19 @@
-# Ignore the contents of the _site directory and other cache directories
+﻿# Ignore the contents of the _site directory and other cache directories
 _site/
 .sass-cache/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*__pycache__/
+.generated/
 
 # Ignore the directory for local files during development
 local/
+
+# Ignore generated notebook outputs and scratch files
+blog_temp.md
+talkmap_out.ipynb
+*_out.ipynb
 
 # Ignore the Gemfile that is generated
 Gemfile.lock
