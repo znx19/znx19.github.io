@@ -1,43 +1,34 @@
 # Ningxin's Homepage
 
-This is the personal website and academic portfolio for **Ningxin Zhang**, built using [Jekyll](https://jekyllrb.com/) and the [Academic Pages](https://github.com/academicpages/academicpages.github.io) theme.
+This repository powers the personal website and academic portfolio for Ningxin Zhang. It is built with [Jekyll](https://jekyllrb.com/) and the [Academic Pages](https://github.com/academicpages/academicpages.github.io) theme.
 
-## 🚀 Getting Started
+## Repository Layout
 
-### Prerequisites
+- `_pages/`, `_posts/`, and `_courses/` are the content sources for the public site.
+- `_layouts/`, `_includes/`, `_sass/`, `assets/`, and `images/` feed the public site output.
 
-- Ruby (2.7+)
-- Bundler
-- Jekyll
+## Local Workflow
 
-### Local Development
-
-1. **Install Dependencies**:
+1. Install dependencies.
    ```bash
-   bundle install
+   make install
    ```
 
-2. **Run Locally**:
+2. Serve the site locally.
    ```bash
-   bundle exec jekyll serve
+   make serve
    ```
-   Access the site at `http://localhost:4000`.
 
-### Content Management
+3. Build a production copy.
+   ```bash
+   make build
+   ```
 
-- **Pages**: Edit markdown files in `_pages/`.
-- **posts**: Create new posts in `_posts/`.
-- **Publications**:
-    - Edit `markdown_generator/publications.tsv`.
-    - Run the python script or notebook in `markdown_generator/` to update markdown files in `_publications/`.
+## Notes
 
-## 🛠 Project Structure
+- The public page layout, copy, and URLs are intended to remain stable.
+- The homepage is driven by `_pages/about.md`, `_pages/cv.md`, `_pages/courses.html`, and `_pages/year-archive.html`.
 
-- `_config.yml`: Main site configuration.
-- `_includes/` & `_layouts/`: HTML templates.
-- `_sass/`: CSS styles.
-- `assets/`: Images, scripts, and compiled CSS.
+## License
 
-## 📄 License
-
-This project relies on the **Academic Pages** theme, which is MIT Licensed.
+This project relies on the MIT-licensed Academic Pages theme.

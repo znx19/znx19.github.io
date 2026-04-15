@@ -25,18 +25,6 @@ author:
 
 # Collections (Content Types)
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
   posts:
     output: true
     permalink: /:collection/:path/
@@ -70,37 +58,12 @@ defaults:
       comments: true
       share: true
       related: true
-  - scope:
-      path: ""
-      type: research_assistant
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  - scope:
-      path: ""
-      type: independent_project
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
 
 # Navigation & UI settings
-breadcrumbs: false # Disabled as requested
+breadcrumbs: false
 read_more: "disabled"
-talkmap_link: false
 words_per_minute: 160
 future: false
-
-# Comments (Disabled by default)
-comments:
-  provider: false
-
-# Analytics (Disabled by default)
-analytics:
-  provider: false
 
 # Build Settings
 markdown: kramdown
@@ -124,13 +87,11 @@ encoding: "utf-8"
 include:
   - .htaccess
   - _pages
-  - files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
-  - .github
   - .jekyll-assets-cache
   - .sass-cache
   - assets/js/_main.js
@@ -164,14 +125,6 @@ plugins:
   - jekyll-paginate
   - jekyll-redirect-from
   - jemoji
-
-# Categories/Tags
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
 
 # HTML Compression
 compress_html:
