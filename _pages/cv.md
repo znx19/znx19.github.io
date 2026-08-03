@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Economics, University of Rochester, 2029 (expected)
+* Ph.D. in Economics, University of Rochester, 2029 (expected)
   * An unofficial transcript
 * B.S. in Economics and Finance, Tsinghua University, 2019
   * Graduate Coursework: 
     * Microeconomics: Advanced Micro-Economics I (A+); Advanced Microeconomics II (A+)
     * Macroeconomics: Advanced Macroeconomics Ia (A+); Advanced Macroeconomic Theory Ib (A+); Advanced Macroeconomics IIa (A); Advanced Macroeconomics IIb (A)
-    * Mathematics: Basic Functional Analysis (A), Applied Stochastic Process (Itô calculus)
+    * Mathematics: Basic Functional Analysis (A), Applied Stochastic Processes (Itô calculus)
   * Undergraduate Coursework: 
     * Mathematics: Real Analysis, Basic Topology, Ordinary Differential Equations, Operational Research, Calculus, Linear Algebra
     * Probability, Statistics and Econometrics: Applied Stochastic Processes, Applied Time Series Analysis, Probability and Mathematical Statistics, Introduction to Bayesian Statistics, Econometrics
@@ -26,15 +26,11 @@ Education
 
 Work Experience
 ======
-* Summer 2025, University of Rochester: Research Assistant
-  * Project: World FiWorld Financial Cycles and Global Trade
-  * Supervisor: Yan Bai Minjie Deng Chang Liu Gabriel Mihalache
-
 * Spring 2023 - Summer 2024, University of Chicago: Research Assistant
   * Project: Multi-Dimensional Information with Specialized Lenders
   * Supervisor: Zhiguo He, Jing Huang, Cecilia Parlatore
     * Systematically reviewed and further adapted the credit market competition model with asymmetric information to elucidate the observed interest rate disparity among banks with specializations in diverse degrees.
-    * Executed a rigorous comparative static analysis on key parameters through numerical calculastions, employing parallel computation techniques in Matlab.
+    * Executed a rigorous comparative static analysis on key parameters through numerical calculations, employing parallel computation techniques in MATLAB.
 
 * Fall 2022 - Summer 2023, University of Chicago: Research Assistant
   * Project: Consumer-Financed Fiscal Stimulus: Evidence from Digital Coupons in China

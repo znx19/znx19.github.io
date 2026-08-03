@@ -1,0 +1,36 @@
+/* ==========================================================================
+   MATH TYPOGRAPHY
+   ========================================================================== */
+
+/* MathJax CHTML renders at roughly 113% by default. Match inline mathematics
+   to the surrounding prose and reserve a small size increase for equations
+   that are intentionally displayed on their own line. */
+.page mjx-container[jax="CHTML"] {
+  max-width: 100%;
+  color: inherit;
+}
+
+.page mjx-container[jax="CHTML"]:not([display="true"]) {
+  margin: 0 0.025em;
+  font-size: 100% !important;
+  vertical-align: -0.04em;
+}
+
+.page__content mjx-container[jax="CHTML"][display="true"] {
+  margin: 1.25rem 0 !important;
+  padding: 0.1rem 0;
+  overflow-x: auto;
+  overflow-y: hidden;
+  font-size: 103% !important;
+}
+
+.page__content .math {
+  line-height: inherit;
+}
+
+@media screen and (max-width: $small) {
+  .page__content mjx-container[jax="CHTML"][display="true"] {
+    margin: 1rem 0 !important;
+    font-size: 100% !important;
+  }
+}
