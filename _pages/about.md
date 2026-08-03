@@ -1,11 +1,19 @@
 ---
 permalink: /
-title: "About Me"
+title: "Ningxin Zhang"
 author_profile: true
-redirect_from: 
+classes: academic-home
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a second year Ph.D. student from [Department of Economics](https://www.sas.rochester.edu/eco/index.html), [Unversity of Rochester](https://www.rochester.edu/). My research interest includes macroeconomic theory and international trade.
+<p class="academic-home__eyebrow">Ph.D. Student in Economics · University of Rochester</p>
 
+I am a Ph.D. student in Economics at the University of Rochester. My research interests are in macroeconomic theory and international trade.
+
+<div class="academic-home__actions">
+  <a class="btn btn--primary" href="{{ '/cv/' | relative_url }}">Curriculum Vitae</a>
+  <a class="btn" href="mailto:{{ site.author.email }}">Email</a>
+  <a class="btn" href="https://github.com/{{ site.author.github }}">GitHub</a>
+</div>

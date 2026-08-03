@@ -1,9 +1,9 @@
 # Site Settings
 locale: "en-US"
-title: "Ningxin's Homepage"
+title: "Ningxin Zhang"
 title_separator: "-"
 name: "Ningxin Zhang"
-description: "personal description"
+description: "Ningxin Zhang is a Ph.D. student in Economics at the University of Rochester, with research interests in macroeconomic theory and international trade."
 url: "https://znx19.github.io"
 baseurl: ""
 repository: "znx19/znx19.github.io"
@@ -14,8 +14,8 @@ author:
   avatar: "profile.png"
   name: "Ningxin Zhang"
   pronouns: "she/her"
-  bio: "Prospective job market candidate in Macroeconomics (2029)"
-  location: "Earth"
+  bio: "Ph.D. Student in Economics"
+  location: "Rochester, NY"
   employer: "University of Rochester"
   email: "nzhang27@ur.rochester.edu"
   github: "znx19"
@@ -92,6 +92,7 @@ exclude:
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
+  - .generated
   - .jekyll-assets-cache
   - .sass-cache
   - assets/js/_main.js

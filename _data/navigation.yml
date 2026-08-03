@@ -8,6 +8,12 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "Research"
+    url: /research/
+
+  - title: "CV"
+    url: /cv/
+
   - title: "Courses"
     url: /courses/
 
@@ -29,11 +35,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Notes"
     url: /year-archive/
-    
-  - title: "Curriculum Vitae"
-    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
