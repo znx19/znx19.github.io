@@ -3,5 +3,16 @@
 projects:
   - title: "Trial Sourcing under Uncertainty about Match Quality"
     status: "Second-Year Paper (August 2026)"
-    summary: "This paper documents that newly activated sourcing links in Colombian customs data start smaller, are more likely to be abandoned, and grow faster conditional on recording subsequent imports. It develops and calibrates a trial-sourcing model in which the first positive order reveals permanent source-product match quality."
+    summary: >-
+      This paper documents three facts about newly activated sourcing links in Colombian customs data.
+      Relative to mature links, activated links start smaller, are more likely to be abandoned, and grow
+      faster conditional on recording subsequent imports. Neither an adjustment-cost model nor a
+      relationship-capital model reproduces all three facts when calibrated to the same four moments. I
+      develop a trial sourcing model in which the first positive order reveals permanent source-product
+      match quality. Uncertainty before sourcing leads firms to place smaller first orders and shifts
+      selection from activation to continuation: low-quality matches are less likely to continue, while
+      imports from high-quality matches grow. The model matches the four calibration moments and fits
+      additional quarterly lifecycle moments more closely than the two alternatives. Relative to a
+      full-information counterfactual, trial sourcing lowers import value from the initial cohort by 1.2
+      percent in the activation quarter but raises it by 9.6 percent by quarter four.
     paper: "/files/trial-sourcing-match-quality.pdf"
