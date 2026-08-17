@@ -1,3 +1,7 @@
 # Add research projects here when they are ready to appear on the site.
-# The homepage and Research page hide this section while the list is empty.
-projects: []
+# The Research page hides this section while the list is empty.
+projects:
+  - title: "Trial Sourcing under Uncertainty about Match Quality"
+    status: "Second-Year Paper (August 2026)"
+    summary: "This paper documents that newly activated sourcing links in Colombian customs data start smaller, are more likely to be abandoned, and grow faster conditional on recording subsequent imports. It develops and calibrates a trial-sourcing model in which the first positive order reveals permanent source-product match quality."
+    paper: "/files/trial-sourcing-match-quality.pdf"
